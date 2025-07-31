@@ -80,7 +80,7 @@ uvicorn app.main:app --reload
 
 ## 📬 API Endpoints
 
-|--------|-----------------------|-----------------------|
+
 | Method | Endpoint              | Description           |
 |--------|-----------------------|-----------------------|
 | POST   | `/customers/`         | Create customer       |
@@ -89,7 +89,7 @@ uvicorn app.main:app --reload
 | GET    | `/menu/`              | View all menu items   |
 | POST   | `/orders/`            | Place new order       |
 | PUT    | `/orders/{id}/status` | Update order status   |
-|--------|-----------------------|-----------------------|
+
 
 
 ## 👤 Author
