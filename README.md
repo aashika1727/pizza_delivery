@@ -16,7 +16,7 @@ A backend API built with FastAPI and MySQL to manage pizza orders, customers, an
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - **Backend**: FastAPI  
 - **Database**: MySQL  
