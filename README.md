@@ -1,11 +1,11 @@
 
-# 🍕 Pizza Delivery API – FastAPI Project
+#  Pizza Delivery API – FastAPI Project
 
 A backend API built with FastAPI and MySQL to manage pizza orders, customers, and menu items. This project follows a modular and scalable design.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Create & manage customers
 - Add and view pizza menu items
@@ -26,7 +26,7 @@ A backend API built with FastAPI and MySQL to manage pizza orders, customers, an
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 pizza_delivery/
@@ -44,7 +44,7 @@ pizza_delivery/
 
 ---
 
-## 🛠️ How to Run Locally
+##  How to Run Locally
 
 1. Clone the repo  
 2. Create a virtual environment and activate it  
@@ -78,7 +78,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## 📬 API Endpoints
+##  API Endpoints
 
 
 | Method | Endpoint              | Description           |
@@ -92,7 +92,7 @@ uvicorn app.main:app --reload
 
 
 
-## 👤 Author
+##  Author
 
 - **Your Name**: Aashika Patel  
 - **GitHub**: [@aashika1727](https://github.com/aashika1727)
