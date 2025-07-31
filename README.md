@@ -92,7 +92,4 @@ uvicorn app.main:app --reload
 
 
 
-##  Author
 
-- **Your Name**: Aashika Patel  
-- **GitHub**: [@aashika1727](https://github.com/aashika1727)
